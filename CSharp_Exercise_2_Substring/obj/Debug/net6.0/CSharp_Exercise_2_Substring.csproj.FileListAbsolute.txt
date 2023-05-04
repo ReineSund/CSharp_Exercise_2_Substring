@@ -1,0 +1,15 @@
+C:\Users\reine\source\repos\CSharp_Exercise_2_Substring\CSharp_Exercise_2_Substring\bin\Debug\net6.0\CSharp_Exercise_2_Substring.exe
+C:\Users\reine\source\repos\CSharp_Exercise_2_Substring\CSharp_Exercise_2_Substring\bin\Debug\net6.0\CSharp_Exercise_2_Substring.deps.json
+C:\Users\reine\source\repos\CSharp_Exercise_2_Substring\CSharp_Exercise_2_Substring\bin\Debug\net6.0\CSharp_Exercise_2_Substring.runtimeconfig.json
+C:\Users\reine\source\repos\CSharp_Exercise_2_Substring\CSharp_Exercise_2_Substring\bin\Debug\net6.0\CSharp_Exercise_2_Substring.dll
+C:\Users\reine\source\repos\CSharp_Exercise_2_Substring\CSharp_Exercise_2_Substring\bin\Debug\net6.0\CSharp_Exercise_2_Substring.pdb
+C:\Users\reine\source\repos\CSharp_Exercise_2_Substring\CSharp_Exercise_2_Substring\obj\Debug\net6.0\CSharp_Exercise_2_Substring.csproj.AssemblyReference.cache
+C:\Users\reine\source\repos\CSharp_Exercise_2_Substring\CSharp_Exercise_2_Substring\obj\Debug\net6.0\CSharp_Exercise_2_Substring.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reine\source\repos\CSharp_Exercise_2_Substring\CSharp_Exercise_2_Substring\obj\Debug\net6.0\CSharp_Exercise_2_Substring.AssemblyInfoInputs.cache
+C:\Users\reine\source\repos\CSharp_Exercise_2_Substring\CSharp_Exercise_2_Substring\obj\Debug\net6.0\CSharp_Exercise_2_Substring.AssemblyInfo.cs
+C:\Users\reine\source\repos\CSharp_Exercise_2_Substring\CSharp_Exercise_2_Substring\obj\Debug\net6.0\CSharp_Exercise_2_Substring.csproj.CoreCompileInputs.cache
+C:\Users\reine\source\repos\CSharp_Exercise_2_Substring\CSharp_Exercise_2_Substring\obj\Debug\net6.0\CSharp_Exercise_2_Substring.dll
+C:\Users\reine\source\repos\CSharp_Exercise_2_Substring\CSharp_Exercise_2_Substring\obj\Debug\net6.0\refint\CSharp_Exercise_2_Substring.dll
+C:\Users\reine\source\repos\CSharp_Exercise_2_Substring\CSharp_Exercise_2_Substring\obj\Debug\net6.0\CSharp_Exercise_2_Substring.pdb
+C:\Users\reine\source\repos\CSharp_Exercise_2_Substring\CSharp_Exercise_2_Substring\obj\Debug\net6.0\CSharp_Exercise_2_Substring.genruntimeconfig.cache
+C:\Users\reine\source\repos\CSharp_Exercise_2_Substring\CSharp_Exercise_2_Substring\obj\Debug\net6.0\ref\CSharp_Exercise_2_Substring.dll
